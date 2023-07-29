@@ -11,28 +11,20 @@
     
     body{
     
-    background-image: url("");
+    background-image: url("forest-g0fc2e4fa8_1280.jpg");
     
     background-repeat: no-repeat;
-    
+
+
     }
-    .fs{
-    
-        background-image: url("My-Little-Pony.jpg");
-        
-        background-repeat: no-repeat;
-        
-        }
-    
-    
-    
+   
     .img{
     
     position: relative;
     
      top: 284px;
     
-    width: 190px;
+    width: 200px;
     
     height: 190px;
     
@@ -94,15 +86,15 @@
         
         float:left;
         
-        height: 200px;
+        height: 250px;
         
-        width: 260px;
+        width: 300px;
         
         margin-left: 5px;
         
-        margin-right:5px;
+        margin-right: 10px;
         
-        background-image: url("");
+        background-image: url("imagen.avif");
         
         }
         
