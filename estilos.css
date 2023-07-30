@@ -22,17 +22,17 @@
     
     position: relative;
     
-    top: 284px;
+    top: 1000px;
     
-    width: 190px;
+    width: 300px;
     
-    height: 200px;
+    height: 700px;
     
-    border-radius: 10px;
+    border-radius: 50px;
     
     background-repeat: no-repeat; 
     
-    left: 325px;
+    left: 700px;
     
     background-image: url("");
     
@@ -66,9 +66,9 @@
         
         position: absolute;
         
-        top: 400px;
+        top: 200px;
         
-         left: 20px;
+         left: 0px;
         
         }
         
